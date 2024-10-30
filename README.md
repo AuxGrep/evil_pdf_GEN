@@ -9,6 +9,6 @@ As an ICT security researcher, I’ve observed that cybercriminals increasingly 
 
 ![Screenshot 2024-10-29 161257](https://github.com/user-attachments/assets/cc4ef15a-f63e-466e-92fb-2b41113213e3)
 
-# Upcoming Feauture
+# SOON!!
 Silent Download and Execute soon on version 2
 
