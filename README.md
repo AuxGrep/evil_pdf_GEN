@@ -11,5 +11,4 @@ As an ICT security researcher, I’ve observed that cybercriminals increasingly 
 
 # Upcoming Feauture
 Silent Download and Execute soon on version 2
-```Author: AuxGrep
-```Email: mranonymoustz@tutanota.com
+
